@@ -1,0 +1,1 @@
+This is based on the classic arcade game "Asteroids" but done in Unity 3D.  I made this variant from a tutorial online and it is fully playable.  No sound effects or particle effects are included.  You will need Unity 3D to run the game.  But the C# code can be viewed in any text editor.
