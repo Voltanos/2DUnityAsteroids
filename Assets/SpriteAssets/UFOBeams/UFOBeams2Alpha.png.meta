@@ -1,0 +1,1248 @@
+fileFormatVersion: 2
+guid: 1309ea8b478f0bb47bd11b002e2de69e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1992160220915061331
+    second: UFOBeams2Alpha_0
+  - first:
+      213: -8430938395724854553
+    second: UFOBeams2Alpha_1
+  - first:
+      213: -7465217648796256170
+    second: UFOBeams2Alpha_3
+  - first:
+      213: -5187413331178896446
+    second: UFOBeams2Alpha_4
+  - first:
+      213: 6800643896573426480
+    second: UFOBeams2Alpha_5
+  - first:
+      213: -6258891213410869004
+    second: UFOBeams2Alpha_6
+  - first:
+      213: -5211521503752683536
+    second: UFOBeams2Alpha_7
+  - first:
+      213: 2931407988763490958
+    second: UFOBeams2Alpha_8
+  - first:
+      213: 435317508766575128
+    second: UFOBeams2Alpha_9
+  - first:
+      213: -558499764083273076
+    second: UFOBeams2Alpha_10
+  - first:
+      213: 6614674912675388200
+    second: UFOBeams2Alpha_11
+  - first:
+      213: -8714492238518815807
+    second: UFOBeams2Alpha_12
+  - first:
+      213: 6723047468685657316
+    second: UFOBeams2Alpha_13
+  - first:
+      213: -8557054457656455037
+    second: UFOBeams2Alpha_14
+  - first:
+      213: -5181153177602041323
+    second: UFOBeams2Alpha_15
+  - first:
+      213: 2873950470085985029
+    second: UFOBeams2Alpha_16
+  - first:
+      213: -8862768444720811200
+    second: UFOBeams2Alpha_17
+  - first:
+      213: 9003949614152287231
+    second: UFOBeams2Alpha_18
+  - first:
+      213: 6582210816594534361
+    second: UFOBeams2Alpha_19
+  - first:
+      213: -6040297413547131665
+    second: UFOBeams2Alpha_20
+  - first:
+      213: 2033494410254251267
+    second: UFOBeams2Alpha_21
+  - first:
+      213: 9198410875477411028
+    second: UFOBeams2Alpha_22
+  - first:
+      213: 8064458292065856739
+    second: UFOBeams2Alpha_23
+  - first:
+      213: -4820162209860251102
+    second: UFOBeams2Alpha_24
+  - first:
+      213: -3014894072877749926
+    second: UFOBeams2Alpha_25
+  - first:
+      213: 5060350027021641696
+    second: UFOBeams2Alpha_26
+  - first:
+      213: 7001519559195985264
+    second: UFOBeams2Alpha_27
+  - first:
+      213: 8879161220386691566
+    second: UFOBeams2Alpha_28
+  - first:
+      213: 7304686205870445276
+    second: UFOBeams2Alpha_29
+  - first:
+      213: -8616785549929291117
+    second: UFOBeams2Alpha_30
+  - first:
+      213: 379972451118272200
+    second: UFOBeams2Alpha_31
+  - first:
+      213: 1156681702199229482
+    second: UFOBeams2Alpha_32
+  - first:
+      213: -4283585834307789321
+    second: UFOBeams2Alpha_33
+  - first:
+      213: 8734058693520302728
+    second: UFOBeams2Alpha_34
+  - first:
+      213: 4970409690509538089
+    second: UFOBeams2Alpha_35
+  - first:
+      213: -5309778940248293924
+    second: UFOBeams2Alpha_36
+  - first:
+      213: 4062160198346228252
+    second: UFOBeams2Alpha_37
+  - first:
+      213: -8135718458586283349
+    second: UFOBeams2Alpha_38
+  - first:
+      213: -6568170392575190212
+    second: UFOBeams2Alpha_39
+  - first:
+      213: -8149322073445111068
+    second: UFOBeams2Alpha_40
+  - first:
+      213: 8779012446145008058
+    second: UFOBeams2Alpha_42
+  - first:
+      213: 4656659711856581697
+    second: UFOBeams2Alpha_43
+  - first:
+      213: 2976522401017243489
+    second: UFOBeams2Alpha_45
+  - first:
+      213: 7416510835057985075
+    second: UFOBeams2Alpha_47
+  - first:
+      213: 4872457747710922999
+    second: UFOBeams2Alpha_48
+  - first:
+      213: 3819719724845618694
+    second: UFOBeams2Alpha_49
+  - first:
+      213: -3706387300545623266
+    second: UFOBeams2Alpha_50
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: UFOBeams2Alpha_0
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 391
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dada1b085dc6a54e0800000000000000
+      internalID: -1992160220915061331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UFOBeams2Alpha_1
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 390
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ea4e97b23a4ffa80800000000000000
+      internalID: -8430938395724854553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UFOBeams2Alpha_3
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 380
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 658b580d918366890800000000000000
+      internalID: -7465217648796256170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UFOBeams2Alpha_4
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 375
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c3c4f33f0b9208b0800000000000000
+      internalID: -5187413331178896446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UFOBeams2Alpha_5
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 386
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03bff23b79db06e50800000000000000
+      internalID: 6800643896573426480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UFOBeams2Alpha_6
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 379
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f0e4d83a93f329a0800000000000000
+      internalID: -6258891213410869004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UFOBeams2Alpha_7
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 310
+        width: 8
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fff28dddc4fca7b0800000000000000
+      internalID: -5211521503752683536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UFOBeams2Alpha_8
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 322
+        width: 49
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8a7df5d8047ea820800000000000000
+      internalID: 2931407988763490958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UFOBeams2Alpha_9
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 352
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81a2a82c7fe8a0600800000000000000
+      internalID: 435317508766575128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UFOBeams2Alpha_10
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 362
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c825da27c6fcf38f0800000000000000
+      internalID: -558499764083273076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UFOBeams2Alpha_11
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 347
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82b54ba79cb0ccb50800000000000000
+      internalID: 6614674912675388200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UFOBeams2Alpha_12
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 357
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c3ff2dfa77ef0780800000000000000
+      internalID: -8714492238518815807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UFOBeams2Alpha_13
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 351
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e409137d001d4d50800000000000000
+      internalID: 6723047468685657316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UFOBeams2Alpha_14
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 361
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 380d6b7de4c3f3980800000000000000
+      internalID: -8557054457656455037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UFOBeams2Alpha_15
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 265
+        width: 71
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51ad42ac2a8d818b0800000000000000
+      internalID: -5181153177602041323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UFOBeams2Alpha_16
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 318
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 503ca87c9b252e720800000000000000
+      internalID: 2873950470085985029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UFOBeams2Alpha_17
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 325
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 043ffd57e0f110580800000000000000
+      internalID: -8862768444720811200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UFOBeams2Alpha_18
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 313
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff30017187474fc70800000000000000
+      internalID: 9003949614152287231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UFOBeams2Alpha_19
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 320
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dfd9d71dd5b85b50800000000000000
+      internalID: 6582210816594534361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UFOBeams2Alpha_20
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 317
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fecffc7518d8c2ca0800000000000000
+      internalID: -6040297413547131665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UFOBeams2Alpha_21
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 324
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30572f7646c683c10800000000000000
+      internalID: 2033494410254251267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UFOBeams2Alpha_22
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 265
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d4cbeab4f157af70800000000000000
+      internalID: 9198410875477411028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UFOBeams2Alpha_23
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 276
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ece98cd616baef60800000000000000
+      internalID: 8064458292065856739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UFOBeams2Alpha_24
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 270
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 222948922085b1db0800000000000000
+      internalID: -4820162209860251102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UFOBeams2Alpha_25
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 281
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a59e0b670d1f826d0800000000000000
+      internalID: -3014894072877749926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UFOBeams2Alpha_26
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 272
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e763c7e989f93640800000000000000
+      internalID: 5060350027021641696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UFOBeams2Alpha_27
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 283
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07583d581f46a2160800000000000000
+      internalID: 7001519559195985264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UFOBeams2Alpha_28
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 218
+        width: 56
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee9929c061e193b70800000000000000
+      internalID: 8879161220386691566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UFOBeams2Alpha_29
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 237
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd29a9007657f5560800000000000000
+      internalID: 7304686205870445276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UFOBeams2Alpha_30
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 247
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 392eebe22370b6880800000000000000
+      internalID: -8616785549929291117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UFOBeams2Alpha_31
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 242
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cec65d5eeee54500800000000000000
+      internalID: 379972451118272200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UFOBeams2Alpha_32
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 252
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2c77c931eb5d0010800000000000000
+      internalID: 1156681702199229482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UFOBeams2Alpha_33
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 244
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fd503d0165ad84c0800000000000000
+      internalID: -4283585834307789321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UFOBeams2Alpha_34
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 254
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 882a0b25b1c953970800000000000000
+      internalID: 8734058693520302728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UFOBeams2Alpha_35
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 203
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 923faf677417af440800000000000000
+      internalID: 4970409690509538089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UFOBeams2Alpha_36
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 210
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdd76aeaf20ef46b0800000000000000
+      internalID: -5309778940248293924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UFOBeams2Alpha_37
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 208
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c12482b9d21bf5830800000000000000
+      internalID: 4062160198346228252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UFOBeams2Alpha_38
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 215
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba24063ba2f181f80800000000000000
+      internalID: -8135718458586283349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UFOBeams2Alpha_39
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 210
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3b515ed3db29d4a0800000000000000
+      internalID: -6568170392575190212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UFOBeams2Alpha_40
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 217
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eaed0c40cac7ee80800000000000000
+      internalID: -8149322073445111068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UFOBeams2Alpha_42
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 116
+        width: 48
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab1d43b7e4155d970800000000000000
+      internalID: 8779012446145008058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UFOBeams2Alpha_43
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 111
+        width: 47
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14c951df557cf9040800000000000000
+      internalID: 4656659711856581697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UFOBeams2Alpha_45
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 126
+        width: 33
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16720aa7a5bbe4920800000000000000
+      internalID: 2976522401017243489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UFOBeams2Alpha_47
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 121
+        width: 41
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33687746f4dbce660800000000000000
+      internalID: 7416510835057985075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UFOBeams2Alpha_48
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 32
+        width: 39
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f0d86391827e9340800000000000000
+      internalID: 4872457747710922999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UFOBeams2Alpha_49
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 5
+        width: 54
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 606d9fc1ade520530800000000000000
+      internalID: 3819719724845618694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UFOBeams2Alpha_50
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 0
+        width: 62
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1b85fe2364409cc0800000000000000
+      internalID: -3706387300545623266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

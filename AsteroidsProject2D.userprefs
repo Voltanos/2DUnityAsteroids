@@ -1,0 +1,16 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Services\SpaceShipService.cs">
+    <Files>
+      <File FileName="Assets\Scripts\SpaceShipControls.cs" Line="27" Column="20" />
+      <File FileName="Assets\Models\SpaceShipModel.cs" Line="5" Column="19" />
+      <File FileName="Assets\Helpers\ISpaceShipHelper.cs" Line="10" Column="38" />
+      <File FileName="Assets\Helpers\SpaceShipHelper.cs" Line="45" Column="10" />
+      <File FileName="Assets\Services\SpaceShipService.cs" Line="21" Column="18" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
